@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.github.rosjava.com_zoubworld_odometry.com_zoubworld_odometry;
+package com.github.zoubworld.rosjava;
 
 import org.ros.concurrent.CancellableLoop;
 import org.ros.namespace.GraphName;

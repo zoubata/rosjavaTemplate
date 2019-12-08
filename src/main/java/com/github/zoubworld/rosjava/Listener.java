@@ -14,8 +14,7 @@
  * the License.
  */
 
-package com.github.rosjava.com_zoubworld_odometry.com_zoubworld_odometry;
-
+package com.github.zoubworld.rosjava;
 import org.apache.commons.logging.Log;
 import org.ros.message.MessageListener;
 import org.ros.namespace.GraphName;
@@ -23,6 +22,7 @@ import org.ros.node.AbstractNodeMain;
 import org.ros.node.ConnectedNode;
 import org.ros.node.NodeMain;
 import org.ros.node.topic.Subscriber;
+
 import sensor_msgs.*;
 /**
  * A simple {@link Subscriber} {@link NodeMain}.
